@@ -1,2 +1,2 @@
-# twm
-Transformer-based World Models
+# Transformer-based World Models (TWM)
+WIP
