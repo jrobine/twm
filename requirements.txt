@@ -1,0 +1,8 @@
+ale_py==0.8.0
+gym==0.26.0
+numpy==1.23.1
+Pillow==9.2.0
+pygame==2.1.0
+torch==1.12.0
+torchvision==0.13.0
+wandb==0.12.21
